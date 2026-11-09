@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How Many Sentences Are in a Paragraph?</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f0f4ff;
+            margin: 0;
+            padding: 40px 20px;
+            color: #222;
+        }
+        main {
+            max-width: 750px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+        }
+        h1 { color: #3156a3; }
+    </style>
+</head>
+<body>
+<main>
+    <h1>How Many Sentences Are in a Paragraph?</h1>
+
+    <p>A paragraph usually contains 3–5 sentences,
+    but there is no fixed rule.</p>
+
+    <h2>What is a paragraph?</h2>
+    <p>A paragraph is a group of sentences that
+    explain one main idea or topic.</p>
+
+    <h2>How many sentences should it contain?</h2>
+    <ul>
+        <li>Short paragraph: 1–2 sentences.</li>
+        <li>Medium paragraph: 3–5 sentences.</li>
+        <li>Long paragraph: 6 or more sentences.</li>
+    </ul>
+
+    <h2>Example</h2>
+    <p>The sun rises in the east. Birds begin to sing.
+    People start their day. The morning feels fresh.</p>
+
+    <p>This example has 4 sentences.</p>
+</main>
+</body>
+</html>
